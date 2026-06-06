@@ -2,7 +2,7 @@
 
 **OpenTelemetry-based observability, distributed tracing, governance, and compliance for AI agents and LLM applications**
 
-Traccia is a production-ready Python SDK for observability, tracing, governance, and compliance across AI agents, LLM applications, agentic workflows, and distributed AI systems.
+Traccia is a production-ready Python SDK for observability, distributed tracing, governance, and compliance across AI agents, LLM applications, agentic workflows, and multi-agent systems.
 
 Built on OpenTelemetry standards, Traccia provides automatic instrumentation, token and cost tracking, guardrail detection, AI governance evidence, and OTLP-compatible exports for modern AI applications.
 
